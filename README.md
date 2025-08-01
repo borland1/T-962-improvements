@@ -1,6 +1,6 @@
 ===============================================================
 
-The purpose of this repo is to replace existing reflow profiles in the form of a time/temperature dataset, with Parametric generated Reflow Profiles, of which a user can easily modify by adjusting individual profile parameters.  Further details is provided in https://github.com/borland1/T962ParametricProfilesDevelopFiles.
+The purpose of this repo is to replace existing reflow profiles in the form of a time/temperature dataset, with Parametric generated Reflow Profiles, of which a user can easily modify by adjusting individual profile parameters.  Further details is provided in https://github.com/borland1/T962ParametricProfilesDevelopFiles....
 
 This repro has been forked from https://github.com/UnifiedEngineering/T-962-improvements
  
