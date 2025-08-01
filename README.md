@@ -1,4 +1,12 @@
-﻿T-962 reflow oven improvements
+===============================================================
+
+The purpose of this repo is to replace existing reflow profiles in the form of a time/temperature dataset, with Parametric generated Reflow Profiles, of which a user can easily modified by adjusting individual parameters.  Further details is provided in https://github.com/borland1/T962ParametricProfilesDevelopFiles.
+
+This repro has been forked from https://github.com/UnifiedEngineering/T-962-improvements
+ 
+ ===============================================================
+ 
+ T-962 reflow oven improvements
 ==============================
 Custom firmware for the cheap T-962 reflow oven utilizing the _existing_ controller hardware.
 
